@@ -1,5 +1,6 @@
 # 💫 About Me:
-SysSecOps Engineer @ Piter <br>CTO @CyberKofiAssociation<br><br>Autodidacte depuis 9 ans.
+SysSecOps Engineer @ Piter <br>CTO @CyberKofiAssociation<br><br>Autodidacte depuis 9 ans, Cat Enjoyer ✨
+
 
 
 ## 🌐 Socials:
@@ -12,4 +13,3 @@ SysSecOps Engineer @ Piter <br>CTO @CyberKofiAssociation<br><br>Autodidacte depu
 ![](https://nirzak-streak-stats.vercel.app/?user=ChifuyuSenpai&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChifuyuSenpai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
