@@ -1,5 +1,6 @@
 # 💫 About Me:
-SysSecOps Engineer @ Piter <br>CTO @CyberKofiAssociation<br><br>Autodidacte depuis 9 ans, Cat Enjoyer ✨
+SysSecOps Engineer @ Piter <br>CTO @CyberKofiAssociation<br><br>Autodidacte depuis 9 ans<br>Cats, Cars and E-Sports Enjoyer ✨<br>
+
 
 
 
