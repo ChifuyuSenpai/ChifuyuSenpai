@@ -1,5 +1,5 @@
 # 💫 About Me:
-SysSecOps Engineer @ Piter <br>CTO @CyberKofiAssociation<br><br>Autodidacte
+SysSecOps Engineer @ Piter <br>CTO @CyberKofiAssociation<br><br>Autodidacte depuis 9 ans.
 
 
 ## 🌐 Socials:
